@@ -52,4 +52,22 @@ header h2{
 
 .tpanel-orange {
     background-color: orange;
+    font-family: "oswald", cursive;
+}
+
+.tpanel-lime {
+    background-color: chartreuse;
+    font-family: "oswald", cursive;
+}
+
+.tpanel-red {
+    background-color: red;
+    color: seashell;
+    font-family: "oswald", cursive;
+}
+
+.tpanel-black {
+    background-color: black;
+    color: seashell;
+    font-family: "oswald", cursive;
 }
